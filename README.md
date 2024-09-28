@@ -14,3 +14,5 @@ https://sketchfab.com/3d-models/stone-bridge-a5d380cd08654b508b4b643056038605
 https://sketchfab.com/3d-models/low-poly-horse-d1ca14c1befe47c8a4686d2f64c82f45
 https://sketchfab.com/3d-models/mongolian-hunting-yurt-433219c2c7b14c37ab74b430f462ce5c
 https://poly.pizza/m/0GzMb32v3oH
+
+Assignment 4: Flythrough camera and POI Tour
