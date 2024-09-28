@@ -22,3 +22,6 @@ Assignment 4: Flythrough camera and POI Tour
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Trees.png)
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Cat_on_mountain.png)
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Pond_mountain.png)
+
+New models used:
+https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083
