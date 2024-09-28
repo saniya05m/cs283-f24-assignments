@@ -16,3 +16,8 @@ https://sketchfab.com/3d-models/mongolian-hunting-yurt-433219c2c7b14c37ab74b430f
 https://poly.pizza/m/0GzMb32v3oH
 
 Assignment 4: Flythrough camera and POI Tour
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/POI_Tour.mov)
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Wholeview.png)
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Trees.png)
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Cat_on_mountain.png)
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Pond_mountain.png)
