@@ -27,5 +27,6 @@ New models used:
 https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083
 
 Assignment 5: Rigid Follow and Spring Follow camera scripts
+
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/RigidFollow.gif)
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/SpringFollow.gif)
