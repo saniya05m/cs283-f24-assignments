@@ -16,7 +16,28 @@ Gaze control
 
 New Model used: https://poly.pizza/m/5EGWBMpuXq
 
+Assignment 5: Rigid Follow and Spring Follow camera scripts
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/RigidFollow.gif)
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/SpringFollow.gif)
+
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/ParticleEffect.gif)
+
+Assignment 4: Flythrough camera and POI Tour
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/POI_Tour.gif)
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Wholeview.png)
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Trees.png)
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Cat_on_mountain.png)
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Pond_mountain.png)
+
+New models used:
+https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083
 
 Assignment 3. Game level prototype for a nomad lifestyle simulation game.
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/whole_scene.jpeg)
@@ -31,18 +52,6 @@ https://sketchfab.com/3d-models/low-poly-horse-d1ca14c1befe47c8a4686d2f64c82f45
 https://sketchfab.com/3d-models/mongolian-hunting-yurt-433219c2c7b14c37ab74b430f462ce5c
 https://poly.pizza/m/0GzMb32v3oH
 
-Assignment 4: Flythrough camera and POI Tour
 
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/POI_Tour.gif)
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Wholeview.png)
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Trees.png)
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Cat_on_mountain.png)
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Pond_mountain.png)
 
-New models used:
-https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083
 
-Assignment 5: Rigid Follow and Spring Follow camera scripts
-
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/RigidFollow.gif)
-![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/SpringFollow.gif)
