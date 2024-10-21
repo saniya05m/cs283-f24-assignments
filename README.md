@@ -3,12 +3,15 @@ Assignment framework for CS283 Game Programming
 
 Assignment 6. 
 Follow Path Linear
+
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/A06FollowLinear.gif)
 
 Follow Path Cubic
+
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/A06FollowCubic.gif)
 
 Gaze control
+
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/A06JointFollow.gif)
 
 New Model used: https://poly.pizza/m/5EGWBMpuXq
