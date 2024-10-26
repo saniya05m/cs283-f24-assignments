@@ -13,23 +13,18 @@ public class GazeController : MonoBehaviour
     {
         if (target != null && lookJoint != null)
         {
-            // Vector from the lookJoint to the target (r)
+            // Vector from the lookJoint to the target (e)
             Vector3 e = target.position - lookJoint.position;
-            // The forward direction of the joint (e)
+            // The forward direction of the joint (r)
             Vector3 r = lookJoint.forward;
 
-            // Compute the cross product (r x e) to get the rotation axis
             Vector3 crossProduct = Vector3.Cross(r, e);
 
-            // Compute the magnitude of the cross product
             float crossMagnitude = crossProduct.magnitude;
 
-            // Compute the dot product (r . e)
             float dotProduct = Vector3.Dot(r, e);
 
 
-
-            // If the cross product magnitude is not zero, compute the axis of rotation
             if (crossMagnitude > 0.0001f)  // Avoid extremely small values
             {
                 // Compute the angle of rotation using the provided formula
