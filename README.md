@@ -1,6 +1,11 @@
 # cs283-f24-assignments
 Assignment framework for CS283 Game Programming
 
+Assignment 7. Animated character controls and collider implementation
+
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/CharacterControlAnimated.gif)
+
+
 Assignment 6. 
 Follow Path Linear
 
