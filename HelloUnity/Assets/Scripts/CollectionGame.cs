@@ -5,8 +5,7 @@ using TMPro;
 
 public class CollectionGame : MonoBehaviour
 {
-    public TextMeshProUGUI scoreText;   
-    public GameObject[] coins;   
+    public TextMeshProUGUI scoreText;     
     private int score = 0;   
 
     void Start()
@@ -16,18 +15,14 @@ public class CollectionGame : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        for (int i = 0; i < coins.Length; i++)
-        {
-            if (other.gameObject == coins[i])
+            if (other.CompareTag("Coin"))
             {
                 score++;
                 UpdateScoreText();
 
-                coins[i].SetActive(false);
+                other.gameObject.SetActive(false);
 
-                break;
             }
-        }
     }
 
     void UpdateScoreText()
