@@ -1,6 +1,9 @@
 # cs283-f24-assignments
 Assignment framework for CS283 Game Programming
 
+Assignment 8. Coin collection and spawner
+Link to video https://drive.google.com/file/d/1_QL-neLHN6wO4JT7qUlfdkMiPgLscIm2/view?usp=sharing
+
 Assignment 7. Animated character controls and collider implementation
 
 ![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/CharacterControlAnimated.gif)
