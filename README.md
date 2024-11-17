@@ -1,6 +1,13 @@
 # cs283-f24-assignments
 Assignment framework for CS283 Game Programming
 
+Assignment 10. BT and NPC controls
+
+Horse jumps on you when you get too close to it and then retreats back when you get closer to your home hut.
+The sheep runs away from you when you go towards it. If you can get close enough to the sheep and press "K" key, you can kill it and it will disappear(tried to do sophisticated animations to demonstrate dying but rotation controls kept getting messed up).
+Link to video https://drive.google.com/file/d/1WnG_OkLOYLHCuvdiG1hIYVNG6ZK77EdN/view?usp=sharing
+
+
 Assignment 9. NPC mechanics and Navmesh
 Link to video https://drive.google.com/file/d/1ofy6TFcA5frSQcS6H7liIpSHGVLgkiGH/view?usp=sharing
 
