@@ -1,5 +1,8 @@
 # cs283-f24-assignments
 Assignment framework for CS283 Game Programming
+# Final Game project
+## Nomad Life Simulator
+
 
 Assignment 10. BT and NPC controls
 
