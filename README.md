@@ -3,6 +3,29 @@ Assignment framework for CS283 Game Programming
 # Final Game project
 ## Nomad Life Simulator
 
+In the game you play as a shepherd. When you spawn you find out your carriage is broken so you need to go to the blacksmith to get it fixed.
+Eventually you find yourself working in the farm
+
+### Controls and how to play
+
+Pickup mechanics is used a lot in the game.
+Press I key to pickup and item when you're in close vicinity of it. 
+Press K to drop an item. You can't have more than 1 item in hand, if you press K while holding something else, it will get dropped.
+
+Game steps:
+1. Go to the blacksmith in the woods
+2. Interact in a dialogue
+3. Go to the farm and come up to the farmer
+4. Engage in dialogue
+5. Go into the barn and pick up the seed on the table
+6. Go to the empty plot of dirt and press K to plant the seed there
+7. Go back to the barn and pick up the watering can
+8. Go to the plot of dirt with sprouts and Press Space to water
+9. Drop the watering can by pressing K and go to the plot with the vegetables
+10. Press Space to initiate the picking cabbage Motion
+11. Place the cabbage in the barn by pressing K
+12. Get coins from the farmer
+13. Run to the blacksmith
 
 Assignment 10. BT and NPC controls
 
