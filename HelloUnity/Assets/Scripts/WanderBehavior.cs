@@ -7,15 +7,17 @@ public class WanderBehavior : MonoBehaviour
 {
     public int wanderAreaRadius;  // Set to a sphere
     private Root m_btRoot = BT.Root(); 
+    Animator animator;
 
     void Start()
-    {
+    {  animator = GetComponent<Animator>();
         BTNode moveTo = BT.RunCoroutine(MoveToRandom);
 
         Sequence sequence = BT.Sequence();
         sequence.OpenBranch(moveTo);
 
         m_btRoot.OpenBranch(sequence);
+        animator.SetBool("isRunning", true);
     }
 
     void Update()
@@ -26,7 +28,7 @@ public class WanderBehavior : MonoBehaviour
     IEnumerator<BTState> MoveToRandom()
     {
        NavMeshAgent agent = GetComponent<NavMeshAgent>();
-
+      
 
        Vector3 randomDirection = Random.insideUnitSphere * wanderAreaRadius;
         randomDirection += transform.position;

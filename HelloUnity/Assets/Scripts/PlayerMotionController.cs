@@ -48,7 +48,27 @@ public class PlayerMotionController : MonoBehaviour
             transform.Rotate(Vector3.up, turningSpeed * Time.deltaTime);
             isMoving = true;
         }
+
+        if (Input.GetKey(KeyCode.I)){
+            StartCoroutine(Interact());
+        }
+
+        if(Input.GetKey(KeyCode.K)){
+            StartCoroutine(Sword());
+        }
         
+        IEnumerator Interact(){
+        animator.SetBool("isInteract", true);
+        yield return new WaitForSeconds(1.5f);
+        animator.SetBool("isInteract", false);
+    }
+
+    IEnumerator Sword(){
+        animator.SetBool("isSword", true);
+        yield return new WaitForSeconds(1.5f);
+        animator.SetBool("isSword", false);
+    }
+     
         // implemented gravity sort of, so that the character doesn't end up floating
         controller.Move(Vector3.down * 9.8f * Time.deltaTime);
         animator.SetBool("isMoving", isMoving);
