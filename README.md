@@ -19,6 +19,7 @@ Press K to drop an item. You can't have more than 1 item in hand, if you press K
 
 https://github.com/user-attachments/assets/923cd3c2-a60c-456a-90bb-71d31738e32d
 
+![](https://github.com/saniya05m/cs283-f24-assignments/blob/main/Farmingvids.gif)
 
 Game steps:
 1. Go to the blacksmith in the woods
