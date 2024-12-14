@@ -42,7 +42,7 @@ Game steps:
 ### Features
 1. Implemented pickup and drop mechanics using mesh collider onStay method. CollectionGame.cs file
 2. UI with Game tips and directions pops up depending on the Current State of the game and relevant locations. CollectionGame.cs
-3. 2 NPCs using Behavior tree. Blacksmith and Farmer interact with the player once he's close enough and depending on the game progression, the interactions vary. BehaviorFarmer.cs and BehaviorBlacksmith.cs files
+3. 2 NPCs using Behavior tree. Blacksmith and Farmer interact with the player once he's close enough and depending on the game progression, the interactions vary. I also implemented communication between the scripts to send info about the game progression. BehaviorFarmer.cs and BehaviorBlacksmith.cs files
 4. Farming features: player needs to progress through the game in order so I use an enum to keep track of all actions including individual farming steps.
 5. Planting the seed: Detecting if you're in the empty plot of dirt and drop the seed. CollectionGame.cs
 6. Watering: detecting player position and enabling watering particle effect when Space is pressed. CollectionGame.cs
