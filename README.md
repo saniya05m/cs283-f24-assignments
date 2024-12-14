@@ -10,8 +10,11 @@ Eventually you find yourself working in the farm
 
 ### Controls and how to play
 WASD for movement
+
 Pickup mechanics is used a lot in the game.
+
 Press I key to pickup and item when you're in close vicinity of it. 
+
 Press K to drop an item. You can't have more than 1 item in hand, if you press K while holding something else, it will get dropped.
 
 ![image](https://github.com/user-attachments/assets/bd0e1d40-f5ca-4c47-82f3-1f7c459a506c)
